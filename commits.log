@@ -1,0 +1,116 @@
+commit ca09d6d5359e454859380390848f16c3670197f3
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Tue Feb 13 12:46:17 2024 -0500
+
+    Agregando imagen de flujo Git y poniendo melo el index.html
+
+commit 6f875e64dbcabcd0afe51c12e7e97982f51121e6
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Mon Feb 12 21:20:43 2024 -0500
+
+    v1.0.0
+
+commit 97659e2ceabad16b16f6d7f7c7a56188ef2c4161
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Mon Feb 12 17:08:09 2024 -0500
+
+    Actualizar index.js
+
+commit b64bab09a5e3f42c8031bdd505e0a8020b32e76b
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 13:22:20 2024 -0500
+
+    Agregando dos parrafos
+
+commit 4aee728e9a41982e5023761b2f6b831f0d76ec82
+Merge: b815e91 8a80a18
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 13:19:56 2024 -0500
+
+    Resolviendo estaciones del año con fecha de inicio
+
+commit b815e9109ed11bd45e0fbd80e44367b12b94f846
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 13:05:22 2024 -0500
+
+    Agregando estaciuones del año con fechas de inicio
+
+commit 8a80a1872600a1b630a2b3f8b92446bc36a81a46
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 13:05:22 2024 -0500
+
+    Agregando las estaciones del año
+
+commit 4fc99fffe992f172f80f86bb84b9b10be5889dd5
+Merge: 2e25528 d895faf
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 12:59:17 2024 -0500
+
+    Resolviendo conflicto merge main/tml en el documento index.html
+
+commit d895faf3a20b802f4832296c0a74ad39feecf744
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 12:53:25 2024 -0500
+
+    Agregando inde.js al index.html
+
+commit 2e2552852cd3ded1e0525726ab8bcc6452cc04a8
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 12:50:05 2024 -0500
+
+    Agregando style.css al index.html
+
+commit 0bdf10e349c4d50909c69bc36b41578937d6f69e
+Merge: 7476a93 6577f56
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 12:31:18 2024 -0500
+
+    Merge branch 'js'
+
+commit 6577f56fdd03160632b8c6529e2c2e86e91999ca
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 12:27:30 2024 -0500
+
+    Modificando index.js
+
+commit 396e28a1945eae30b4898d9536c7dfbb7e33a2f5
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 12:23:54 2024 -0500
+
+    Creando archivo js
+
+commit 7476a9371becad071c323e1512ba26913bb08a93
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 12:18:46 2024 -0500
+
+    Creamos archivo css
+
+commit a71213d4a0abdf461ae928ddf46149d8b86854dd
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 12:14:16 2024 -0500
+
+    Creamos el archivo html
+
+commit c6ffcf04be65a564363efe2fd26ed64528463e4f
+Author: Andres Araque <138517554+Mono-A3@users.noreply.github.com>
+Date:   Sat Feb 10 11:18:29 2024 -0500
+
+    Creando hola1.txt
+
+commit f148d13cb566e420a346963fce2e81a410200929
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 11:11:53 2024 -0500
+
+    Agregando mas contenido al README
+
+commit 273d66dd19084c0b04e901b88365d72a4636bb9d
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 10:53:13 2024 -0500
+
+    Agregando contenido inicial al README
+
+commit a45f0e27aeb03fed3910bf3cf038ff93e2d64ac0
+Author: Andres Araque <aaraqueamaya397@gmail.com>
+Date:   Sat Feb 10 10:47:54 2024 -0500
+
+    Primer commit
